@@ -1,0 +1,6 @@
+@globalSolutionCsharp_HostAddress = http://localhost:5293
+
+GET {{globalSolutionCsharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
